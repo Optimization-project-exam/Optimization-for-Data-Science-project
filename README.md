@@ -1,6 +1,6 @@
 # Optimization for Data Science project: Anomaly Detection
 
-This is an exam project of Optimization for Data Science made by /m-pernini, /ir-ca, /FrancescoSart and /.
+This is an exam project of Optimization for Data Science made by /m-pernini, /ir-ca, /FrancescoSart and /MarcoFurlan99.
 In this project we analyze the problem of Anomaly Detection. We 
 address the task using two algorithms that compute (1+ϵ)-approximation
 to Minimum Enclosing Ball (MEB) and since they are closely related to
